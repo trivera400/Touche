@@ -155,7 +155,7 @@ h1
 h1::after
 {
     content: '';
-    background: #007bff;
+    background: #9E7676;
     display: block;
     height: 3px;
     width: 170px;
@@ -185,7 +185,7 @@ h1::after
     font-size: 22px;
     font-weight: bold;
     margin-top: 15px;
-    color: #007bff; !important;
+    color: #9E7676; !important;
 }
 .profile-pic h3
 {
@@ -197,7 +197,7 @@ h1::after
 {
     height: 25px;
     width: 25px;
-    color: #007bff !important;
+    color: #9E7676 !important;
     background: #fff;
     padding: 4px;
     border-radius: 50%;
@@ -231,7 +231,7 @@ h1::after
     background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(img/promo.jpg);
     background-size: cover;
     background-position: center;
-    color: #fff;
+    color: #9E7676;
     background-attachment: fixed;
     text-align: center;
     padding: 100px;
@@ -325,7 +325,7 @@ ul li:last-child
 }
 .buy-btn
 {
-    background-color: #2196f3;
+    background-color: #9E7676;
     border-radius: 3px;
     display: inline-block;
     font-size: 18px;
@@ -333,13 +333,13 @@ ul li:last-child
     transition: 0.5;
 }
 .buy-btn:hover{
-    border-color: 1px solid #fff;
-    background-color: #3f51b5;
+    border-color: 1px solid #FFF8EA;
+    background-color: #9E7676;
 }
 a
 {
     text-decoration: none!important;
-    color: #333!important;
+    color: #3F3B6C!important;
 }
 /*-----------Testimonials----------*/
 #testimonials
@@ -371,13 +371,13 @@ border-radius: 50%;
     top: -60px;
     position:absolute;
     left:calc(50% - 60px);
-    border: 10px solid #fff;
+    border: 10px solid #FFF8EA;
 }
 .profile h3
 {
     font-size: 20px;
     margin-top: 15px;
-    color: #007bff;
+    color: #9E7676;
 }
 #testimonials span
 {
@@ -393,7 +393,7 @@ blockquote::before
 {
     content: '\93';
     font-size: 50px;
-    color: #007bff;
+    color: #9E7676;
     position: relative;
     line-height: 20px;
     bottom: -15px;
@@ -403,7 +403,7 @@ blockquote::after
 {
     content: '\94';
     font-size: 50px;
-    color: #007bff;
+    color: #9E7676;
     position: relative;
     line-height: 10px;
     bottom: -15px;
@@ -445,7 +445,7 @@ blockquote::after
 .contact-info .fa 
 {
     margin: 10px;
-    color: #007bff;
+    color: #9E7676;
     font-weight: bold;
 }
 /*----------------Footer--------------------*/
